@@ -1,7 +1,7 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+    "appsAppBarTitle": "Installed Apps",
+    "@appsAppBarTitle": {
+        "description": "Text shown in the AppBar of the Apps Page"
     }
 }
