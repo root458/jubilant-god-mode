@@ -228,10 +228,10 @@ packages:
     dependency: "direct dev"
     description:
       name: jnigen
-      sha256: "0bf13019d29b317f4d475b0919198715376132261ba08edde774ff15522ecc3f"
+      sha256: "4521149155c33d92ea19ea3ddd265f1b053421436e448a3385df5408a411eb06"
       url: "https://pub.dev"
     source: hosted
-    version: "0.12.0"
+    version: "0.12.2"
   js:
     dependency: transitive
     description:
